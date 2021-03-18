@@ -2,11 +2,7 @@
 
 This repository is used to demonstrate how to build a cross-platform application with C/C++ & CMake
 
-https://medium.com/@huynhtanngan/cross-platform-c-c-development-android-ios-windows-macos-linux-c87cc5643950
-
-
-![Alt Text](https://thumbs.gfycat.com/ScholarlyOrneryDrongo-size_restricted.gif)
-
+https://wibugirl.medium.com/cross-platform-c-c-development-android-ios-windows-macos-linux-c87cc5643950
 
 # Software requirement
 Install python3, jinja2 https://pypi.org/project/Jinja2/
